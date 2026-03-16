@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TestSession2")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TestSession_Test")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5be862d5157f6c8d0a19825209d2914d7d92a117")]
-[assembly: System.Reflection.AssemblyProductAttribute("TestSession2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TestSession2")]
+[assembly: System.Reflection.AssemblyProductAttribute("TestSession_Test")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TestSession_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

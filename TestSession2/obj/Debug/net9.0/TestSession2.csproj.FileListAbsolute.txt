@@ -9,3 +9,14 @@ C:\Users\ly4do\OneDrive\Desktop\01.02\TestSession2\TestSession2\obj\Debug\net9.0
 C:\Users\ly4do\OneDrive\Desktop\01.02\TestSession2\TestSession2\obj\Debug\net9.0\refint\TestSession2.dll
 C:\Users\ly4do\OneDrive\Desktop\01.02\TestSession2\TestSession2\obj\Debug\net9.0\TestSession2.pdb
 C:\Users\ly4do\OneDrive\Desktop\01.02\TestSession2\TestSession2\obj\Debug\net9.0\ref\TestSession2.dll
+W:\Colledge\02.01\unittest0102\TestSession2\bin\Debug\net9.0\TestSession2.deps.json
+W:\Colledge\02.01\unittest0102\TestSession2\bin\Debug\net9.0\TestSession2.dll
+W:\Colledge\02.01\unittest0102\TestSession2\bin\Debug\net9.0\TestSession2.pdb
+W:\Colledge\02.01\unittest0102\TestSession2\obj\Debug\net9.0\TestSession2.GeneratedMSBuildEditorConfig.editorconfig
+W:\Colledge\02.01\unittest0102\TestSession2\obj\Debug\net9.0\TestSession2.AssemblyInfoInputs.cache
+W:\Colledge\02.01\unittest0102\TestSession2\obj\Debug\net9.0\TestSession2.AssemblyInfo.cs
+W:\Colledge\02.01\unittest0102\TestSession2\obj\Debug\net9.0\TestSession2.csproj.CoreCompileInputs.cache
+W:\Colledge\02.01\unittest0102\TestSession2\obj\Debug\net9.0\TestSession2.dll
+W:\Colledge\02.01\unittest0102\TestSession2\obj\Debug\net9.0\refint\TestSession2.dll
+W:\Colledge\02.01\unittest0102\TestSession2\obj\Debug\net9.0\TestSession2.pdb
+W:\Colledge\02.01\unittest0102\TestSession2\obj\Debug\net9.0\ref\TestSession2.dll

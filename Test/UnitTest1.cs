@@ -21,7 +21,7 @@ namespace Test
         }
 
         [Test]
-        public void Test_salary_postMaster_bet05_return10000()
+        public void Test_salary_postMaster_bet05_return8700()
         {
             string post = "Мастер";
             double bet = 0.5;
@@ -33,7 +33,7 @@ namespace Test
         }
 
         [Test]
-        public void Test_salary_postDriver_bet1_return10000()
+        public void Test_salary_postDriver_bet1_return13050()
         {
             string post = "Водитель";
             double bet = 1;
