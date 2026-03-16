@@ -6,16 +6,16 @@
         {
             double salary = 0;
 
-            
+            post = post.ToLower();
             switch (post)
             {
-                case "Директор":
+                case "директор":
                     salary = 30000;
                     break;
-                case "Мастер":
+                case "мастер":
                     salary = 20000;
                     break;
-                case "Водитель":
+                case "водитель":
                     salary = 15000;
                     break;
                 default:
