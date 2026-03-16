@@ -31,5 +31,7 @@ namespace Test
 
             Assert.That(salary, Is.EqualTo(8700));
         }
+
+
     }
 }
