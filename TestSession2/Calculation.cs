@@ -2,7 +2,7 @@
 {
     public class Calculation
     {
-        public double SalaryCalculation(string post, float bet)
+        public double SalaryCalculation(string post, double bet)
         {
             double salary = 0;
             switch (post)

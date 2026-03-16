@@ -487,6 +487,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "TestSession2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/TestSession2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestSession2.dll": {}
+        }
       }
     }
   },
@@ -1503,6 +1513,11 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "TestSession2/1.0.0": {
+      "type": "project",
+      "path": "../TestSession2/TestSession2.csproj",
+      "msbuildProject": "../TestSession2/TestSession2.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1512,6 +1527,7 @@
       "NUnit >= 4.2.2",
       "NUnit.Analyzers >= 4.3.0",
       "NUnit3TestAdapter >= 4.6.0",
+      "TestSession2 >= 1.0.0",
       "coverlet.collector >= 6.0.2"
     ]
   },
@@ -1546,7 +1562,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ly4do\\OneDrive\\Desktop\\01.02\\TestSession2\\TestSession2\\TestSession2.csproj": {
+              "projectPath": "C:\\Users\\ly4do\\OneDrive\\Desktop\\01.02\\TestSession2\\TestSession2\\TestSession2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
